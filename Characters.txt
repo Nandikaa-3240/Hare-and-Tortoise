@@ -2,3 +2,4 @@ Characters:
 Hare 
 Tortoise
 Human
+Deer
